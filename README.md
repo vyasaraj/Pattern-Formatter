@@ -11,5 +11,5 @@ If your an eclipse user then
 3. In the pop up menu select the Arguments tab.
 4. In the vm arguments enter the following command, for example
    -Djava.util.logging.config.file=/home/vyasarajv/sample_workspace/com.pramati.sample/resource/logging.properties
-5. enter applay and run.   
+5. enter apply and run.   
 
